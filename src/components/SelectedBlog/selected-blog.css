@@ -1,0 +1,52 @@
+ 
+.edit-blog-container {
+
+    padding-top: 20px;
+
+}
+ 
+.image-container img {
+
+    padding-bottom: 10px;
+
+}
+ 
+.button-container {
+
+    display: flex;
+
+    justify-content: center;
+
+    gap: 10px;
+
+    margin-top: 10px;
+
+}
+ 
+.button-container .btn {
+
+    padding: 10px 20px;
+
+    font-size: 16px;
+
+    border-radius: 4px;
+
+}
+ 
+.button-container .btn-danger {
+
+    background-color: #dc3545;
+
+    border-color: #dc3545;
+
+}
+ 
+.button-container .btn-warning {
+
+    background-color: #ffc107;
+
+    border-color: #ffc107;
+
+}
+
+ 
